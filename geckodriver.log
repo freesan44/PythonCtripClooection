@@ -1,0 +1,576 @@
+1530442327477	geckodriver	INFO	geckodriver 0.21.0
+1530442327501	geckodriver	INFO	Listening on 127.0.0.1:50853
+1530442328479	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.QERWN1rj0Qu9"
+2018-07-01 18:52:20.079 plugin-container[10695:389816] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 18:52:20.644 plugin-container[10697:389857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530442341324	Marionette	INFO	Listening on port 50868
+2018-07-01 18:52:21.373 plugin-container[10698:389931] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530442353658	geckodriver	INFO	geckodriver 0.21.0
+1530442353679	geckodriver	INFO	Listening on 127.0.0.1:50986
+1530442354667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.nu6hFHNuJjC3"
+2018-07-01 18:52:37.039 plugin-container[10706:390319] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 18:52:37.402 plugin-container[10707:390346] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530442357942	Marionette	INFO	Listening on port 51001
+1530442358015	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 18:52:38.285 plugin-container[10708:390449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530442943003	geckodriver	INFO	geckodriver 0.21.0
+1530442943016	geckodriver	INFO	Listening on 127.0.0.1:53786
+1530442944020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.DB9qYQOf5Upz"
+2018-07-01 19:02:27.724 plugin-container[10888:402413] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:02:28.151 plugin-container[10889:402444] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530442948938	Marionette	INFO	Listening on port 53801
+2018-07-01 19:02:28.972 plugin-container[10890:402526] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530442949061	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530443160913	geckodriver	INFO	geckodriver 0.21.0
+1530443160964	geckodriver	INFO	Listening on 127.0.0.1:54889
+1530443161930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.73dtZE5N8pNh"
+2018-07-01 19:06:04.996 plugin-container[10915:407110] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:06:05.373 plugin-container[10916:407237] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530443166116	Marionette	INFO	Listening on port 54904
+1530443166215	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:06:06.502 plugin-container[10917:407343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530444418843	geckodriver	INFO	geckodriver 0.21.0
+1530444418859	geckodriver	INFO	Listening on 127.0.0.1:60450
+1530444419861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.jNUN362HuzQX"
+2018-07-01 19:27:03.789 plugin-container[12868:428179] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:27:04.298 plugin-container[12871:428260] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530444425071	Marionette	INFO	Listening on port 60465
+1530444425129	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:27:05.190 plugin-container[12872:428345] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530444504387	geckodriver	INFO	geckodriver 0.21.0
+1530444504403	geckodriver	INFO	Listening on 127.0.0.1:60922
+1530444505415	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.Erq910cZOdOb"
+2018-07-01 19:28:28.516 plugin-container[12905:429562] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:28:29.061 plugin-container[12906:429613] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530444509822	Marionette	INFO	Listening on port 60937
+1530444509886	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:28:30.154 plugin-container[12907:429730] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530444537749	geckodriver	INFO	geckodriver 0.21.0
+1530444537755	geckodriver	INFO	Listening on 127.0.0.1:61169
+1530444538776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.5M8CLoXGj5Xh"
+2018-07-01 19:29:01.172 plugin-container[12914:430547] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:29:01.377 plugin-container[12915:430581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530444541963	Marionette	INFO	Listening on port 61189
+1530444542110	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:29:02.281 plugin-container[12916:430700] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/NetworkGeolocationProvider.js, line 406: TypeError: this.listener is null
+JavaScript warning: https://webresource.c-ctrip.com/resh5tourapponline/R1/resource/controllers/list.js?v=compat_201807011813, line 1: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: https://webresource.c-ctrip.com/resh5tourapponline/R1/resource/controllers/list.js?v=compat_201807011813, line 1: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1530444803775	geckodriver	INFO	geckodriver 0.21.0
+1530444803791	geckodriver	INFO	Listening on 127.0.0.1:62428
+1530444804792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.VHE44Mo6auXh"
+2018-07-01 19:33:27.464 plugin-container[12942:433745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:33:27.736 plugin-container[12943:433777] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530444807946	Marionette	INFO	Listening on port 62443
+1530444808057	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:33:28.872 plugin-container[12944:433887] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/NetworkGeolocationProvider.js, line 406: TypeError: this.listener is null
+2018-07-01 19:34:15.724 plugin-container[12946:434448] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530445029208	geckodriver	INFO	geckodriver 0.21.0
+1530445029224	geckodriver	INFO	Listening on 127.0.0.1:64018
+1530445030226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.F3Ki5hWYZl3z"
+2018-07-01 19:37:12.551 plugin-container[13004:438282] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:37:13.164 plugin-container[13005:438332] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445033760	Marionette	INFO	Listening on port 64037
+2018-07-01 19:37:13.843 plugin-container[13008:438440] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445033883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/NetworkGeolocationProvider.js, line 406: TypeError: this.listener is null
+1530445388757	geckodriver	INFO	geckodriver 0.21.0
+1530445388774	geckodriver	INFO	Listening on 127.0.0.1:49815
+1530445389769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.pl6VLrnhIMSb"
+2018-07-01 19:43:12.209 plugin-container[13109:447708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:43:12.647 plugin-container[13112:447767] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445393213	Marionette	INFO	Listening on port 49830
+1530445393270	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:43:13.337 plugin-container[13113:447873] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445454079	geckodriver	INFO	geckodriver 0.21.0
+1530445454101	geckodriver	INFO	Listening on 127.0.0.1:50199
+1530445455098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.JlpLRHrDzZQP"
+2018-07-01 19:44:18.423 plugin-container[13129:449270] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:44:18.700 plugin-container[13130:449307] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445459340	Marionette	INFO	Listening on port 50214
+1530445459475	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:44:19.478 plugin-container[13131:449410] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9533, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445495156	geckodriver	INFO	geckodriver 0.21.0
+1530445495171	geckodriver	INFO	Listening on 127.0.0.1:50493
+1530445496181	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.nksSsooEC8Tc"
+2018-07-01 19:44:59.660 plugin-container[13139:450349] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:45:00.124 plugin-container[13140:450404] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445500376	Marionette	INFO	Listening on port 50508
+1530445500497	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:45:02.398 plugin-container[13141:450640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9633, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530445553385	geckodriver	INFO	geckodriver 0.21.0
+1530445553402	geckodriver	INFO	Listening on 127.0.0.1:50846
+1530445554389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.fzJICYkKohi3"
+2018-07-01 19:45:56.892 plugin-container[13154:451415] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:45:57.267 plugin-container[13155:451451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445557783	Marionette	INFO	Listening on port 50861
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530445557931	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:45:58.849 plugin-container[13156:451619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/NetworkGeolocationProvider.js, line 406: TypeError: this.listener is null
+1530445790013	geckodriver	INFO	geckodriver 0.21.0
+1530445790033	geckodriver	INFO	Listening on 127.0.0.1:51964
+1530445791028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.5VC7frFM5huB"
+2018-07-01 19:49:53.957 plugin-container[13279:457154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:49:54.232 plugin-container[13282:457200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:49:54.777 plugin-container[13283:457298] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445794807	Marionette	INFO	Listening on port 51979
+1530445794821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/NetworkGeolocationProvider.js, line 406: TypeError: this.listener is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-07-01 19:50:43.813 plugin-container[13286:457837] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445988161	geckodriver	INFO	geckodriver 0.21.0
+1530445988178	geckodriver	INFO	Listening on 127.0.0.1:52892
+1530445989178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.HYtvyOfJ9Ykg"
+2018-07-01 19:53:12.186 plugin-container[13301:459697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:53:12.563 plugin-container[13302:459734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530445993251	Marionette	INFO	Listening on port 52907
+1530445993348	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:53:13.412 plugin-container[13303:459843] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446336566	geckodriver	INFO	geckodriver 0.21.0
+1530446336586	geckodriver	INFO	Listening on 127.0.0.1:54498
+1530446337585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.ZchyQUSJyo5o"
+2018-07-01 19:59:00.526 plugin-container[13341:467238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 19:59:01.125 plugin-container[13342:467280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446341721	Marionette	INFO	Listening on port 54513
+1530446341848	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 19:59:01.929 plugin-container[13343:467393] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530446428786	geckodriver	INFO	geckodriver 0.21.0
+1530446428797	geckodriver	INFO	Listening on 127.0.0.1:54998
+1530446429814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.fLCLdtU23c2U"
+2018-07-01 20:00:32.486 plugin-container[13354:469443] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:00:32.831 plugin-container[13355:469482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446433538	Marionette	INFO	Listening on port 55013
+1530446433632	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:00:33.917 plugin-container[13356:469661] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446461625	geckodriver	INFO	geckodriver 0.21.0
+1530446461651	geckodriver	INFO	Listening on 127.0.0.1:55245
+1530446462647	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.5DF19IQYeBK7"
+2018-07-01 20:01:05.767 plugin-container[13368:470362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:01:06.478 plugin-container[13369:470396] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530446466868	Marionette	INFO	Listening on port 55260
+1530446466924	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:01:07.920 plugin-container[13370:470561] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446735986	geckodriver	INFO	geckodriver 0.21.0
+1530446736005	geckodriver	INFO	Listening on 127.0.0.1:56579
+1530446737009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.bssL3XUJ6DbF"
+2018-07-01 20:05:40.926 plugin-container[13509:478575] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:05:41.229 plugin-container[13512:478632] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446741994	Marionette	INFO	Listening on port 56594
+1530446742125	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:05:42.350 plugin-container[13513:478747] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446764759	geckodriver	INFO	geckodriver 0.21.0
+1530446764767	geckodriver	INFO	Listening on 127.0.0.1:56816
+1530446765785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.8bnYm3BxeNnG"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-07-01 20:06:09.240 plugin-container[13522:479502] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:06:09.884 plugin-container[13523:479558] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446770449	Marionette	INFO	Listening on port 56831
+1530446770626	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:06:10.960 plugin-container[13524:479722] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/NetworkGeolocationProvider.js, line 406: TypeError: this.listener is null
+1530446839121	geckodriver	INFO	geckodriver 0.21.0
+1530446839142	geckodriver	INFO	Listening on 127.0.0.1:57249
+1530446840129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.G6lLEVFgWOp7"
+2018-07-01 20:07:23.262 plugin-container[13541:481499] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:07:23.853 plugin-container[13542:481531] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530446844377	Marionette	INFO	Listening on port 57264
+1530446844503	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:07:25.566 plugin-container[13543:481691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/NetworkGeolocationProvider.js, line 406: TypeError: this.listener is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530447820628	geckodriver	INFO	geckodriver 0.21.0
+1530447820651	geckodriver	INFO	Listening on 127.0.0.1:61710
+1530447821650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.itpSIpdh4ZGz"
+2018-07-01 20:23:45.428 plugin-container[13746:498400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:23:45.832 plugin-container[13749:498466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530447826535	Marionette	INFO	Listening on port 61725
+1530447826656	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:23:46.852 plugin-container[13750:498575] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9633, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530448365330	geckodriver	INFO	geckodriver 0.21.0
+1530448365356	geckodriver	INFO	Listening on 127.0.0.1:64252
+1530448366342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.aQrnIn1SN7fk"
+2018-07-01 20:32:50.505 plugin-container[13814:512181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:32:50.665 plugin-container[13815:512212] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530448371103	Marionette	INFO	Listening on port 64267
+1530448371176	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:32:51.510 plugin-container[13816:512423] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530448947164	geckodriver	INFO	geckodriver 0.21.0
+1530448947188	geckodriver	INFO	Listening on 127.0.0.1:50470
+1530448948185	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.FP1H8PxGOZMb"
+2018-07-01 20:42:31.746 plugin-container[13863:522230] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:42:31.995 plugin-container[13864:522273] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530448952917	Marionette	INFO	Listening on port 50486
+1530448952967	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:42:33.415 plugin-container[13865:522383] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449027988	geckodriver	INFO	geckodriver 0.21.0
+1530449028018	geckodriver	INFO	Listening on 127.0.0.1:51086
+1530449029015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.S90ffDEHPPY4"
+2018-07-01 20:43:51.850 plugin-container[13877:523677] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:43:52.451 plugin-container[13878:523719] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449033282	Marionette	INFO	Listening on port 51101
+1530449033323	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:43:53.801 plugin-container[13879:523866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449080222	geckodriver	INFO	geckodriver 0.21.0
+1530449080238	geckodriver	INFO	Listening on 127.0.0.1:51548
+1530449081247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.97Gl6MNq42cK"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-07-01 20:44:45.193 plugin-container[13893:524491] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:44:45.523 plugin-container[13894:524524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449086058	Marionette	INFO	Listening on port 51563
+1530449086106	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:44:46.521 plugin-container[13895:524663] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530449264801	geckodriver	INFO	geckodriver 0.21.0
+1530449264818	geckodriver	INFO	Listening on 127.0.0.1:52567
+1530449265814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.Jum5GzwX8hbl"
+2018-07-01 20:47:49.438 plugin-container[13910:527641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:47:49.808 plugin-container[13911:527682] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449270757	Marionette	INFO	Listening on port 52582
+1530449270805	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:47:51.035 plugin-container[13912:527798] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1530449408570	geckodriver	INFO	geckodriver 0.21.0
+1530449408585	geckodriver	INFO	Listening on 127.0.0.1:53397
+1530449409588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.DR9tJ8Qn7XFT"
+2018-07-01 20:50:12.382 plugin-container[13944:530508] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:50:12.930 plugin-container[13945:530540] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449413518	Marionette	INFO	Listening on port 53412
+1530449413623	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:50:13.981 plugin-container[13946:530655] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449582183	geckodriver	INFO	geckodriver 0.21.0
+1530449582200	geckodriver	INFO	Listening on 127.0.0.1:54341
+1530449583193	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.bSuVOrOUHy5a"
+2018-07-01 20:53:06.048 plugin-container[13970:534285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:53:06.722 plugin-container[13971:534331] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449587377	Marionette	INFO	Listening on port 54360
+1530449587454	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:53:07.766 plugin-container[13972:534492] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449698100	geckodriver	INFO	geckodriver 0.21.0
+1530449698117	geckodriver	INFO	Listening on 127.0.0.1:55072
+1530449699112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.u00UQWYKOA1t"
+2018-07-01 20:55:02.142 plugin-container[13980:537260] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:55:02.677 plugin-container[13981:537306] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449703074	Marionette	INFO	Listening on port 55087
+1530449703127	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:55:05.407 plugin-container[13982:537463] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449860062	geckodriver	INFO	geckodriver 0.21.0
+1530449860083	geckodriver	INFO	Listening on 127.0.0.1:55974
+1530449861080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.bNUFZpChICa6"
+2018-07-01 20:57:43.763 plugin-container[13995:540189] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 20:57:44.341 plugin-container[13996:540239] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530449865007	Marionette	INFO	Listening on port 55989
+1530449865096	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 20:57:45.397 plugin-container[13997:540389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530450241486	geckodriver	INFO	geckodriver 0.21.0
+1530450241504	geckodriver	INFO	Listening on 127.0.0.1:57814
+1530450242498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.uIjwuatxpAXy"
+2018-07-01 21:04:06.289 plugin-container[14111:551340] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2018-07-01 21:04:07.054 plugin-container[14114:551382] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1530450247777	Marionette	INFO	Listening on port 57829
+2018-07-01 21:04:07.832 plugin-container[14115:551574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530450247845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530450316928	geckodriver	INFO	geckodriver 0.21.0
+1530450316945	geckodriver	INFO	Listening on 127.0.0.1:58380
+1530450317955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.qtnpJzfqABO7"
+2018-07-01 21:05:21.879 plugin-container[14135:553098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 21:05:22.181 plugin-container[14136:553143] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530450322698	Marionette	INFO	Listening on port 58395
+1530450322788	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 21:05:23.054 plugin-container[14137:553311] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530450374384	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530450480832	geckodriver	INFO	geckodriver 0.21.0
+1530450480852	geckodriver	INFO	Listening on 127.0.0.1:59344
+1530450481856	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.g3a7dEg1nIUf"
+2018-07-01 21:08:05.144 plugin-container[14174:558803] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 21:08:05.213 plugin-container[14177:558869] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530450485595	Marionette	INFO	Listening on port 59359
+1530450485675	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 21:08:07.641 plugin-container[14178:559048] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530451961391	geckodriver	INFO	geckodriver 0.21.0
+1530451961418	geckodriver	INFO	Listening on 127.0.0.1:49603
+1530451962407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.Xok5zyWy2tYW"
+1530451962967	addons.manager	DEBUG	Application has been upgraded
+1530451962993	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1530451962998	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1530451963025	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1530451963028	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1530451963029	addons.manager	DEBUG	Starting provider: XPIProvider
+1530451963029	addons.xpi	DEBUG	startup
+1530451963030	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1530451963045	addons.xpi	INFO	Removing all system add-on upgrades.
+1530451963046	addons.xpi	DEBUG	checkForChanges
+1530451963046	addons.xpi	DEBUG	Loaded add-on state: ${}
+1530451963048	addons.xpi	DEBUG	New add-on activity-stream@mozilla.org in app-system-defaults
+1530451963049	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1530451963050	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1530451963052	addons.xpi	DEBUG	New add-on followonsearch@mozilla.com in app-system-defaults
+1530451963052	addons.xpi	DEBUG	New add-on formautofill@mozilla.org in app-system-defaults
+1530451963053	addons.xpi	DEBUG	New add-on onboarding@mozilla.org in app-system-defaults
+1530451963053	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1530451963054	addons.xpi	DEBUG	New add-on webcompat-reporter@mozilla.org in app-system-defaults
+1530451963054	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1530451963055	addons.xpi	DEBUG	getInstallState changed: true, state: {}
+1530451963070	addons.xpi-utils	DEBUG	Opening XPI database /var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/rust_mozprofile.Xok5zyWy2tYW/extensions.json
+1530451963071	addons.xpi-utils	DEBUG	New add-on activity-stream@mozilla.org installed in app-system-defaults
+*** Blocklist::_preloadBlocklistFile: blocklist is disabled
+1530451963116	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1530451963123	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1530451963131	addons.xpi-utils	DEBUG	New add-on followonsearch@mozilla.com installed in app-system-defaults
+1530451963137	addons.xpi-utils	DEBUG	New add-on formautofill@mozilla.org installed in app-system-defaults
+1530451963147	addons.xpi-utils	DEBUG	New add-on onboarding@mozilla.org installed in app-system-defaults
+1530451963154	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1530451963167	addons.xpi-utils	DEBUG	New add-on webcompat-reporter@mozilla.org installed in app-system-defaults
+1530451963172	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1530451963744	addons.manager	DEBUG	Registering startup change 'installed' for activity-stream@mozilla.org
+1530451963756	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi
+1530451963759	addons.xpi	DEBUG	Calling bootstrap method install on activity-stream@mozilla.org version 2018.05.30.0900-c6d48b86
+1530451963760	addons.xpi-utils	DEBUG	Make addon app-system-defaults:activity-stream@mozilla.org visible
+1530451963760	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{e3501dd4-773d-8347-9577-57522c394030}","location":"app-system-defaults","version":"2018.05.30.0900-c6d48b86","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi","skinnable":false,"size":2732390,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963763	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1530451963770	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/aushelper@mozilla.org.xpi
+1530451963789	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1530451963789	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1530451963789	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{0d65d98b-acbf-8242-a85a-98c418007e89}","location":"app-system-defaults","version":"2.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"size":8423,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963790	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1530451963791	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/firefox@getpocket.com.xpi
+1530451963800	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1530451963800	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1530451963801	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{384c3642-64d9-6d4c-9d65-5f771c163416}","location":"app-system-defaults","version":"1.0.5","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/firefox@getpocket.com.xpi","skinnable":false,"size":855888,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963801	addons.manager	DEBUG	Registering startup change 'installed' for followonsearch@mozilla.com
+1530451963802	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/followonsearch@mozilla.com.xpi
+1530451963805	addons.xpi	DEBUG	Calling bootstrap method install on followonsearch@mozilla.com version 0.9.7
+1530451963805	addons.xpi-utils	DEBUG	Make addon app-system-defaults:followonsearch@mozilla.com visible
+1530451963806	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{5493b892-e0e7-0a44-a41d-4b7c92743c76}","location":"app-system-defaults","version":"0.9.7","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/followonsearch@mozilla.com.xpi","skinnable":false,"size":17903,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"66.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963807	addons.manager	DEBUG	Registering startup change 'installed' for formautofill@mozilla.org
+1530451963807	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/formautofill@mozilla.org.xpi
+1530451963809	addons.xpi	DEBUG	Calling bootstrap method install on formautofill@mozilla.org version 1.0
+1530451963810	addons.xpi-utils	DEBUG	Make addon app-system-defaults:formautofill@mozilla.org visible
+1530451963810	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{23d7b972-bb64-f447-870b-2caa978d988d}","location":"app-system-defaults","version":"1.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/formautofill@mozilla.org.xpi","skinnable":false,"size":465036,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963811	addons.manager	DEBUG	Registering startup change 'installed' for onboarding@mozilla.org
+1530451963811	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/onboarding@mozilla.org.xpi
+1530451963830	addons.xpi	DEBUG	Calling bootstrap method install on onboarding@mozilla.org version 1.0
+1530451963831	addons.xpi-utils	DEBUG	Make addon app-system-defaults:onboarding@mozilla.org visible
+1530451963832	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{ada10410-01e6-cc4f-9cc0-e40e9e352a98}","location":"app-system-defaults","version":"1.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/onboarding@mozilla.org.xpi","skinnable":false,"size":564183,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963833	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1530451963833	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/screenshots@mozilla.org.xpi
+1530451963838	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 32.1.0
+1530451963838	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1530451963839	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{dcfdd30f-4a2b-ea44-ba57-9c05be11394a}","location":"app-system-defaults","version":"32.1.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442333000,"updateDate":1530442333000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"size":1002421,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963840	addons.manager	DEBUG	Registering startup change 'installed' for webcompat-reporter@mozilla.org
+1530451963841	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/webcompat-reporter@mozilla.org.xpi
+1530451963843	addons.xpi	DEBUG	Calling bootstrap method install on webcompat-reporter@mozilla.org version 1.0.0
+1530451963843	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat-reporter@mozilla.org visible
+1530451963844	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat-reporter@mozilla.org","syncGUID":"{92c1df39-a6cf-fa41-b953-5d74fab7449c}","location":"app-system-defaults","version":"1.0.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"WebCompat Reporter","description":"Report site compatibility issues on webcompat.com.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442335000,"updateDate":1530442335000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/webcompat-reporter@mozilla.org.xpi","skinnable":false,"size":12704,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963844	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1530451963845	addons.xpi	DEBUG	Loading bootstrap scope from /Applications/Firefox.app/Contents/Resources/browser/features/webcompat@mozilla.org.xpi
+1530451963847	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 2.0
+1530451963848	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1530451963849	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{79e2f683-5956-ab42-abe3-938cab6752f3}","location":"app-system-defaults","version":"2.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1530442333000,"updateDate":1530442333000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"size":13134,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"},{"id":"{aa3c5121-dab2-40e2-81ca-7ea25febc110}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":true,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963851	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{e3501dd4-773d-8347-9577-57522c394030}","location":"app-system-defaults","version":"2018.05.30.0900-c6d48b86","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi","skinnable":false,"size":2732390,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963852	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{0d65d98b-acbf-8242-a85a-98c418007e89}","location":"app-system-defaults","version":"2.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"size":8423,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963852	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{384c3642-64d9-6d4c-9d65-5f771c163416}","location":"app-system-defaults","version":"1.0.5","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/firefox@getpocket.com.xpi","skinnable":false,"size":855888,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963852	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{5493b892-e0e7-0a44-a41d-4b7c92743c76}","location":"app-system-defaults","version":"0.9.7","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/followonsearch@mozilla.com.xpi","skinnable":false,"size":17903,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"66.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963852	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{23d7b972-bb64-f447-870b-2caa978d988d}","location":"app-system-defaults","version":"1.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/formautofill@mozilla.org.xpi","skinnable":false,"size":465036,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963852	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{ada10410-01e6-cc4f-9cc0-e40e9e352a98}","location":"app-system-defaults","version":"1.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442334000,"updateDate":1530442334000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/onboarding@mozilla.org.xpi","skinnable":false,"size":564183,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963853	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{dcfdd30f-4a2b-ea44-ba57-9c05be11394a}","location":"app-system-defaults","version":"32.1.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442333000,"updateDate":1530442333000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"size":1002421,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963853	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat-reporter@mozilla.org","syncGUID":"{92c1df39-a6cf-fa41-b953-5d74fab7449c}","location":"app-system-defaults","version":"1.0.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"WebCompat Reporter","description":"Report site compatibility issues on webcompat.com.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442335000,"updateDate":1530442335000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/webcompat-reporter@mozilla.org.xpi","skinnable":false,"size":12704,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963853	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{79e2f683-5956-ab42-abe3-938cab6752f3}","location":"app-system-defaults","version":"2.0","type":"extension","updateURL":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1530442333000,"updateDate":1530442333000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/Applications/Firefox.app/Contents/Resources/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"size":13134,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"61.0","maxVersion":"61.*"},{"id":"{aa3c5121-dab2-40e2-81ca-7ea25febc110}","minVersion":"61.0","maxVersion":"61.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":true,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1530451963853	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1530451963853	addons.xpi-utils	DEBUG	Updating add-on states
+1530451963871	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi
+1530451963872	addons.xpi	DEBUG	Calling bootstrap method startup on activity-stream@mozilla.org version 2018.05.30.0900-c6d48b86
+1530451963875	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/aushelper@mozilla.org.xpi
+1530451963876	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1530451963876	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/firefox@getpocket.com.xpi
+1530451963877	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1530451963890	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/followonsearch@mozilla.com.xpi
+1530451963892	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.7
+1530451963893	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/formautofill@mozilla.org.xpi
+1530451963894	addons.xpi	DEBUG	Calling bootstrap method startup on formautofill@mozilla.org version 1.0
+1530451963896	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/onboarding@mozilla.org.xpi
+1530451963896	addons.xpi	DEBUG	Calling bootstrap method startup on onboarding@mozilla.org version 1.0
+1530451963897	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/screenshots@mozilla.org.xpi
+1530451963898	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 32.1.0
+1530451963900	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/webcompat-reporter@mozilla.org.xpi
+1530451963901	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat-reporter@mozilla.org version 1.0.0
+1530451963902	addons.xpi	DEBUG	Registering manifest for /Applications/Firefox.app/Contents/Resources/browser/features/webcompat@mozilla.org.xpi
+1530451963904	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 2.0
+1530451963908	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1530451963909	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1530451963909	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1530451963909	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1530451963909	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1530451963910	addons.manager	DEBUG	Starting provider: GMPProvider
+1530451963913	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1530451963915	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1530451963916	addons.manager	DEBUG	Starting provider: PluginProvider
+1530451963917	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1530451963917	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1530451963920	addons.manager	DEBUG	Completed startup sequence
+1530451964347	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 26
+1530451964870	addons.repository	DEBUG	No addons.json found.
+2018-07-01 21:32:46.448 plugin-container[14389:607581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-01 21:32:46.952 plugin-container[14392:607640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530451966967	addons.xpi	DEBUG	Existing add-on activity-stream@mozilla.org in app-system-defaults
+1530451966967	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1530451966968	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1530451966969	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1530451966970	addons.xpi	DEBUG	Existing add-on formautofill@mozilla.org in app-system-defaults
+1530451966971	addons.xpi	DEBUG	Existing add-on onboarding@mozilla.org in app-system-defaults
+1530451966971	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1530451966971	addons.xpi	DEBUG	Existing add-on webcompat-reporter@mozilla.org in app-system-defaults
+1530451966972	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1530451966972	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1530451967506	Marionette	INFO	Listening on port 49618
+1530451967529	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-01 21:32:48.864 plugin-container[14393:607857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1530452013090	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/61.0/20180621125625/Darwin_x86_64-gcc3/zh-CN/release/Darwin%2016.7.0/default/default/update.xml
+1530452014293	addons.productaddons	INFO	Completed downloading document
+1530452015489	addons.productaddons	INFO	downloadXHR File download. status=200
+1530452015499	addons.productaddons	INFO	Downloaded file will be saved to /var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/tmpaddon-d64a56
+1530452023505	addons.productaddons	INFO	downloadXHR File download. status=200
+1530452023516	addons.productaddons	INFO	Downloaded file will be saved to /var/folders/g1/6c0xfjcs0193y11m7h93xl3h0000gn/T/tmpaddon-ba3d64
+1530452059801	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 2.0
+1530452059801	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat-reporter@mozilla.org version 1.0.0
+1530452059802	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 32.1.0
+1530452059812	addons.xpi	DEBUG	Calling bootstrap method shutdown on onboarding@mozilla.org version 1.0
+1530452059813	addons.xpi	DEBUG	Calling bootstrap method shutdown on formautofill@mozilla.org version 1.0
+1530452059814	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.7
+1530452059815	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1530452059816	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1530452059816	addons.xpi	DEBUG	Calling bootstrap method shutdown on activity-stream@mozilla.org version 2018.05.30.0900-c6d48b86
+1530452060019	addons.manager	DEBUG	shutdown
+1530452060020	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1530452060020	addons.xpi	DEBUG	shutdown
+1530452060020	addons.xpi-utils	DEBUG	shutdown
+1530452060020	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1530452060021	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1530452060021	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1530452060035	addons.manager	DEBUG	Async provider shutdown done
